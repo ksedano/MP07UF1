@@ -9,10 +9,10 @@
 
 <body>
 <?php
-   echo( "<h1>Hello world</H1>" );
+//   echo( "<h1>Hello world</H1>" );
 ?>
 <p>
-Benvinguts al curs de PHP.  
+Benvinguts al curs de PHP.
 </p>
 </body>
 </html>
