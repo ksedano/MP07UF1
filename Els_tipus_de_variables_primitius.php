@@ -16,11 +16,4 @@ echo "La variable \$b conté el valor $b i és del tipus $tipus_de_b\n<br>";
 $c = [2,"hola",16,"kevin"];
 $tipus_de_c = gettype( $c );
 echo "La variable \$c conté el valor $c i és del tipus $tipus_de_c\n<br>";
-
-$d = new DateTime();
-$tipus_de_d = gettype( $d );
-echo "La variable \$d 
-      conté el valor " . $d->format( "d/m/Y") .
-      " i és del tipus $tipus_de_d";
-//La variable $d es del tipus objecte.
 ?>
